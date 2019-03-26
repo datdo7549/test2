@@ -11,8 +11,6 @@
 #include<string.h>
 
 using namespace std;
-
-//fsdfsdfsdf
 struct Kieu4
 {
 	string Dangso;
